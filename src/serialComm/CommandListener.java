@@ -1,4 +1,4 @@
-package transferHeater;
+package serialComm;
 import java.util.Scanner;
 
 public class CommandListener implements Runnable {

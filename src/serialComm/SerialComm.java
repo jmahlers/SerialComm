@@ -1,4 +1,4 @@
-package transferHeater;
+package serialComm;
 
 import jssc.*;
 
